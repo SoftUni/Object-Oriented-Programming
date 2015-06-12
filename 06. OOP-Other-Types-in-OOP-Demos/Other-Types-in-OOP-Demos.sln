@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1 StructVsClass", "Struct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. DynamicType", "DynamicType\4. DynamicType.csproj", "{E0FE63A4-D431-4D21-9D31-27E6C619CBAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2 CustomStackExample", "CustomStackExample\5.2 CustomStackExample.csproj", "{B5B6A062-D196-4F50-A755-FD04C92A2AE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,6 +135,16 @@ Global
 		{E0FE63A4-D431-4D21-9D31-27E6C619CBAC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{E0FE63A4-D431-4D21-9D31-27E6C619CBAC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{E0FE63A4-D431-4D21-9D31-27E6C619CBAC}.Release|x86.ActiveCfg = Release|Any CPU
+		{B5B6A062-D196-4F50-A755-FD04C92A2AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B6A062-D196-4F50-A755-FD04C92A2AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B6A062-D196-4F50-A755-FD04C92A2AE0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B5B6A062-D196-4F50-A755-FD04C92A2AE0}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B5B6A062-D196-4F50-A755-FD04C92A2AE0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B5B6A062-D196-4F50-A755-FD04C92A2AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B6A062-D196-4F50-A755-FD04C92A2AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B6A062-D196-4F50-A755-FD04C92A2AE0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B5B6A062-D196-4F50-A755-FD04C92A2AE0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B5B6A062-D196-4F50-A755-FD04C92A2AE0}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
