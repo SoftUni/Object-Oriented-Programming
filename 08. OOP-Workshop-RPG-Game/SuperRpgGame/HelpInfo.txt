@@ -1,0 +1,8 @@
+﻿Game objective: Kill everyone!!!
+-help - displays basic game info and commands
+-map - displays the map
+-left, right, up, down - player movement
+-status - displays current player status and enemies left
+-enemies - displays info about enemies on map
+-clear - clears the screen
+-exit - run like a little girl
